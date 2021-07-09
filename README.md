@@ -9,7 +9,7 @@ ESPN_Func module contains the set of functions inorder to :
 
 ESPN Analytics module contains transformations and Data Visualizations.
 
-Series IDs is the list of IDs as provided by ESPNScricinfo
+Series_IDs.txt is the list of IDs as provided by ESPNScricinfo
 
 Just import the espn_func module and run the visualizations.
 
